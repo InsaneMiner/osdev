@@ -13,10 +13,10 @@
 ### Projects
  - booloaders
    -  [chadx86](https://github.com/0xol/chadx86)
-   -  [Primum](https://github.com/Osakuass/Primum)
+   -  [Primum](https://github.com/Osakuass/Primum) (64 bit and uefi only)
    -  [Limine](https://github.com/limine-bootloader/limine)
  - kernels/os's
-   - [Osakauss](https://github.com/Osakuass/Osakauss)
+   - [Osakauss](https://github.com/Osakuass/Osakauss) (64 bit and uefi only)
    - [SkiftOs](https://github.com/skiftOS/skift)
    - [Brutal](https://github.com/brutal-org/brutal)
 
