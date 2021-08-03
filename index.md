@@ -8,4 +8,4 @@
  - kernel dev
    - [Poncho's os dev series](https://www.youtube.com/watch?v=mpPbKEeWIHU&list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVyZ&index=1) 
    - Osdev central kernel dev tuts
-     - [Basic kernel](https://insaneminer.github.io/osdev/tuts/basic/1/)
+     - [Basic kernel](https://insaneminer.github.io/osdev/tuts/basics/1/)
